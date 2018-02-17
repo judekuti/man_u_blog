@@ -99,6 +99,10 @@ p {
   font-family:'Alex Brush', cursive;
 }
 
+.text-justify {
+  font-family:'Helvetica';
+}
+
 /*.item.muuri-item-dragging .item-content {
   background: #8993a2;
 }
